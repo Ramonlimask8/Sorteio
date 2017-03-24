@@ -11,7 +11,7 @@ public class Sorteio {
       Scanner console = new Scanner (System.in);
       Random rng = new Random();
       
-      int i = rng.nextInt(9);
+      int i = rng.nextInt(10);
               
               System.out.println(i);
     }
